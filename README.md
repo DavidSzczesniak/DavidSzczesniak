@@ -5,4 +5,4 @@ I'm a Frontend engineer currently working with JavaScript and React. I like to w
 - 🔭 Currently planning various future projects
 - 🌱 Currently learning advanced React concepts and design patterns
 - 👯 Open to collaborate on anything JS/React focused
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-szczesniak-81934b151/)
+- 📫 How to reach me: david.szczesniak86@gmail.com | [LinkedIn](https://www.linkedin.com/in/david-szczesniak-81934b151/)
